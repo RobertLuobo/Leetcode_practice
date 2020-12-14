@@ -1,3 +1,8 @@
+最长公共子序列
+最长回文子序列
+「编辑距离」
+「公共子序列」
+
 #### lc  [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 中等
