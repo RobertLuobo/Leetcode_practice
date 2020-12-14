@@ -100,6 +100,8 @@ public:
 
 #### [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
+https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/zi-xu-lie-wen-ti-tong-yong-si-lu-zui-chang-hui-wen/
+
 ```c++
 class Solution {
 public:
